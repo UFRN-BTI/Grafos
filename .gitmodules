@@ -1,0 +1,3 @@
+[submodule "maxFlow_with_minCost"]
+	path = maxFlow_with_minCost
+	url = https://github.com/Kywal/maxFlow_with_minCost.git
